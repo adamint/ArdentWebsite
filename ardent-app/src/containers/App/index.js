@@ -14,8 +14,8 @@ class App extends Component {
         <div>
           <Nav />
           <Switch>
-            <Route path="/" exact component={Home} />
-            <Route path="/about" exact component={About} />
+            <Route path="/ArdentWebsite/" exact component={Home} />
+            <Route path="/ArdentWebsite/about" exact component={About} />
             <Route component={NotFound} />
           </Switch>
         </div>
