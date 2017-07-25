@@ -5,7 +5,7 @@ import Home from "../Home";
 import About from "../About";
 import NotFound from "../NotFound";
 
-import Nav from "./components/Nav";
+import Nav from "../../components/Nav";
 
 class App extends Component {
   render() {
