@@ -14,7 +14,7 @@ const Nav = () =>
         <NavLink
           className="nav-link"
           exact
-          to="/"
+          to="/ArdentWebsite/"
           activeClassName="nav-link-active"
         >
           Home
@@ -22,7 +22,7 @@ const Nav = () =>
         <NavLink
           className="nav-link"
           exact
-          to="/about"
+          to="/ArdentWebsite/about"
           activeClassName="nav-link-active"
         >
           About
@@ -30,7 +30,7 @@ const Nav = () =>
         <NavLink
           className="nav-link"
           exact
-          to="/4444"
+          to="/ArdentWebsite/4444"
           activeClassName="nav-link-active"
         >
           NotFound
