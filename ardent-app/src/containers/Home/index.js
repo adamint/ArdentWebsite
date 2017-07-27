@@ -13,7 +13,7 @@ export default () =>
       <Robot>
         <img src={robotImage} alt="Ardent Robot" />
       </Robot>
-      <HeroText>AN ALL-PURPOSE, MULTILINGUAL AND FUN DISCORD BOT</HeroText>
+      <HeroText>AN ALL-PURPOSE, CUSTOMIZABLE AND FUN DISCORD BOT</HeroText>
       <div className="hero-divider" />
       <div className="hero-buttons">
         <HeroButton>Dashboard</HeroButton>
