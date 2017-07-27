@@ -31,14 +31,14 @@ export const Robot = styled.div`
 export const HeroText = styled.div`
   text-align: center;
   font-weight: 800;
-  font-size: 24px;
-  width: 50%;
+  font-size: 26px;
+  width: 55%;
   margin: auto;
   color: #2b3e4e;
   letter-spacing: 5px;
   margin-bottom: 40px;
   > img {
-    height: 18px;
+    height: 20px;
   }
 `;
 
