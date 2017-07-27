@@ -5,6 +5,7 @@ import Container from "../../components/Container";
 import { Hero, Robot, HeroText, HeroButton, HeroDiscoverMore } from "./styles";
 
 import robotImage from "./robot.png";
+import discordBotLogo from "./discord-bot-logo.svg";
 import downArrowIcon from "./down-arrow.svg";
 
 export default () =>
@@ -13,7 +14,10 @@ export default () =>
       <Robot>
         <img src={robotImage} alt="Ardent Robot" />
       </Robot>
-      <HeroText>AN ALL-PURPOSE, MULTILINGUAL AND FUN DISCORD BOT</HeroText>
+      <HeroText>
+        <span>AN ALL-PURPOSE, MULTILINGUAL AND FUN </span>
+        <img src={discordBotLogo} />
+      </HeroText>
       <div className="hero-divider" />
       <div className="hero-buttons">
         <HeroButton>Dashboard</HeroButton>
