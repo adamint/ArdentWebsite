@@ -26,10 +26,5 @@ export default () =>
         </form>
         <HeroButton>Web Console</HeroButton>
       </div>
-      <HeroDiscoverMore>
-        <span>discover more</span>
-        <br />
-        <img src={downArrowIcon} />
-      </HeroDiscoverMore>
     </Container>
   </Hero>;

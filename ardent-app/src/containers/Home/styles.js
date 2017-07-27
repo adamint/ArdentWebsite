@@ -55,15 +55,4 @@ export const HeroButton = styled.button`
   cursor: pointer;
 `;
 
-export const HeroDiscoverMore = styled.div`
-  text-align: center;
-  margin-top: 80px;
-  > img {
-    height: 16px;
-    margin: auto;
-  }
-  > span {
-    font-size: 12px;
-    color: #bbbec3;
-  }
-`;
+
