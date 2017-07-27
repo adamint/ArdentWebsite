@@ -21,7 +21,9 @@ export default () =>
       <div className="hero-divider" />
       <div className="hero-buttons">
         <HeroButton>Dashboard</HeroButton>
-        <HeroButton>Invite to Discord</HeroButton>
+        <form action="http://google.com">
+            <HeroButton>Invite to Discord</HeroButton>
+        </form>
         <HeroButton>Web Console</HeroButton>
       </div>
       <HeroDiscoverMore>

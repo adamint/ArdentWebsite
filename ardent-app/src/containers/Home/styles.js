@@ -52,6 +52,7 @@ export const HeroButton = styled.button`
   font-weight: 600;
   letter-spacing: 2px;
   font-size: 12px;
+  cursor: pointer;
 `;
 
 export const HeroDiscoverMore = styled.div`
