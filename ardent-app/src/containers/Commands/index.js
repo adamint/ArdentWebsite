@@ -1,3 +1,8 @@
 import React from "react";
+import Container from "../../components/Container";
+import Title from "../../components/Title";
 
-export default () => <h1>Commands!</h1>;
+export default () =>
+  <Container>
+    <Title text="Commands" />
+  </Container>;

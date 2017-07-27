@@ -13,7 +13,7 @@ injectGlobal`
   body {
     margin: 0;
     padding: 0;
-    background-color: #eff2f7;
+    background-color: white;
     font-family: 'Raleway', sans-serif;
   }
   .center {
