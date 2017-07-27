@@ -16,6 +16,9 @@ export const Hero = styled.div`
   > section > .hero-buttons {
     text-align: center;
     margin-top: 40px;
+    > form {
+      display: inline-block;
+    }
   }
 `;
 
