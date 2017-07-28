@@ -21,7 +21,7 @@ export default () =>
       <div className="hero-divider" />
       <div className="hero-buttons">
         <HeroButton>Dashboard</HeroButton>
-        <form action="http://google.com">
+        <form action='https://discordapp.com/oauth2/authorize?scope=bot\&\client_id=339101087569281045\&\permissions=3235872'>
             <HeroButton>Invite to Discord</HeroButton>
         </form>
         <HeroButton>Web Console</HeroButton>

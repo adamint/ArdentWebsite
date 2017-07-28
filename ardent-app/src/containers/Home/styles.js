@@ -3,7 +3,7 @@ import styled from "styled-components";
 import BG from "./background.jpg";
 
 export const Hero = styled.div`
-  height: 400px;
+  height: 600px;
   background: no-repeat top url(${BG});
   background-size: cover;
   padding: 120px 0px;
